@@ -1,4 +1,4 @@
-## Olá! sou Ruan Lopes, Estudante de Analise e Desenvolvimento de Sistemas 👋
+## Olá! sou Ruan Lopes. 👋
 
 ### Sou estudande de Analise e Desenvolvimento de Sistemas. Comecei meu caminho para me tornar desenvolvedor com o desenvolvimento web porém tenho interesse em estudar Machine Learning e Desenvolvimento de Software.
 
