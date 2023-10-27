@@ -1,6 +1,6 @@
 ## Olá! sou Ruan Lopes. 👋
 
-### Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei meu caminho de desenvolvimento de forma autônoma com o desenvolvimento web, porém, tenho interesse em estudar outras áreas como Machine Learning e Desenvolvimento de Software.
+### Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei meu caminho de desenvolvimento de forma autônoma com o desenvolvimento web e tenho interesse em estudar outras áreas como Machine Learning e Desenvolvimento de Software.
 
 ## Linguagens e Ferramentas
 
