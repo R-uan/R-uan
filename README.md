@@ -1,6 +1,4 @@
-## Olá! sou Ruan Lopes. 👋
-
-### Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei meu caminho de desenvolvimento de forma autônoma com o desenvolvimento web e tenho interesse em estudar outras áreas como Machine Learning e Desenvolvimento de Software.
+### Estudante de Análise e Desenvolvimento de Sistemas.
 
 ## Linguagens e Ferramentas
 
@@ -14,6 +12,6 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg">
 </div>
 
-#### Também possuo conhecimento de SQL, NoSQL, Express e outras frameworks para NodeJS.
+#### Possuo conhecimento de SQL, NoSQL, Express, React e outras frameworks para NodeJS.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6489f36635999ac82373d12d?variant=dark)](https://roadmap.sh)
