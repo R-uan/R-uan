@@ -1,11 +1,3 @@
-<h2>Hello I'm Ruan<h2/>
-<p>
-  Formado em Analise e Desenvolvimento de Sistemas e autodidata em 
-  desenvolvimento web. Eu tenho o objetivo de me tornar um profissional 
-  proeficiente que pode ser confiado para desenvolver aplicações eficientes e
-  que superam as expectativas.
-</p>
-
 ### Linguagens e Ferramentas
 <div style="display: flex"><br>
   <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
