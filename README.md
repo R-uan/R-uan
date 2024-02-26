@@ -10,5 +10,3 @@
 </div>
 
 #### Possuo conhecimento de SQL, NoSQL, Express, React e outras frameworks para NodeJS.
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6489f36635999ac82373d12d?variant=dark)](https://roadmap.sh)
