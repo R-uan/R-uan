@@ -2,12 +2,7 @@
   Hello! I'm Ruan 👋
 </h1>
 
-<p>
-  I'm a 22 years old brazilian with a passion for creating innovative and
-  user-friendly digital experiences. Eager to learn and grow in the
-	ever-evolving world of web development, I am dedicated to mastering various
-	technologies and always catching up with industry trends.
-</p>
+### I'm a 22 years old brazilian with a passion for creating innovative and user-friendly digital experiences. Eager to learn and grow in the ever-evolving world of web development, I am dedicated to mastering various technologies and always catching up with industry trends.
 
 ### Linguagens e Ferramentas
 <div style="display: flex">
