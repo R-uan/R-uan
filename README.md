@@ -4,7 +4,7 @@
 
 ### I'm a 22 years old brazilian with a passion for creating innovative and user-friendly digital experiences. Eager to learn and grow in the ever-evolving world of web development, I am dedicated to mastering various technologies and always catching up with industry trends.
 
-### Linguagens e Ferramentas
+### Languages, Frameworks and Tools
 <div style="display: flex">
   <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg">
