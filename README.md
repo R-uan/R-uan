@@ -19,7 +19,7 @@
   <img align="center" alt="MongoDB" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg">
 </div>
 
-##### Express, Redux, Jest, NextJS, NestJS, SCSS, Axios, Redis, Docker, Git, Linux, ASP.NET.
+##### Express, Redux, Jest, NextJS, NestJS, SCSS, Axios, Redis, Docker, Git, Linux.
 
 <hr />
 
