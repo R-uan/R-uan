@@ -1,11 +1,3 @@
-<h1>
-  Hello! I'm Ruan 👋
-</h1>
-
-### I'm a 22 years old brazilian with a passion for creating innovative and user-friendly digital experiences. Eager to learn and grow in the ever-evolving world of web development, I am dedicated to mastering various technologies and always catching up with industry trends.
-
-<hr />
-
 ### Languages, Frameworks and Other Tools
 <div style="display: flex">
   <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
