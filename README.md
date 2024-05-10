@@ -9,6 +9,7 @@
   <img align="center" alt="Laravel" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg">
   <img align="center" alt="Postgres" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="ASPNET" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 
 ##### Express, Redux, Jest, NextJS, NestJS, SCSS, Axios, Redis, Docker, Git, Linux.
