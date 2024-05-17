@@ -28,11 +28,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/gactpGM.jpeg"  />
-
-###
-
-<div align="center">
+<div style="width: fit-content;" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
