@@ -30,23 +30,23 @@
 
 <div style="width: fit-content;" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
 </div>
 
@@ -54,21 +54,21 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="5" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
 </div>
 
