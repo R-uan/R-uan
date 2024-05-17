@@ -1,4 +1,4 @@
-<h3 align="center">🌌 Hi, I'm Ruan, web developer on the make. 🌌</h3>
+<h1 align="center">🌌 Hi, I'm Ruan, web developer on the make. 🌌</h1>
 
 ###
 
