@@ -1,3 +1,4 @@
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 ### Languages, Frameworks and Other Tools
 <div style="display: flex">
   <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
