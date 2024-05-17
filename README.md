@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on building my portfolio <br>🤝 I’m looking for help with joining the job market <br>🌱 I’m currently learning anything i can</p>
+<h3 align="center">🔭 I’m currently working on building my portfolio <br>🤝 I’m looking for help with joining the job market <br>🌱 I’m currently learning anything i can</h3>
 
 ###
 
