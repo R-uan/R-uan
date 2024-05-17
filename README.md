@@ -1,4 +1,4 @@
-<h3 align="left">🔭 I’m currently working on building my portfolio 🤝 I’m looking for help with joining the job market 🌱 I’m currently learning anything i can</h3>
+<h3 align="center">🌌 Hi, I'm Ruan, web developer on the make. 🌌</h3>
 
 ###
 
@@ -58,21 +58,21 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
 </div>
 
