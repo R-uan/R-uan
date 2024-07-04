@@ -1,6 +1,8 @@
 <div align="center" style="width: 100%">
 <img src="https://github.com/R-uan/R-uan/blob/main/typing.svg" />
 <!-- Gif created with: https://github.com/denvercoder1/readme-typing-svg -->
+</div>
+
 <br/>
 
 ```csharp
@@ -16,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-uan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="168" alt="languages graph"  />
 
 <br/>
-  
+<div align="center" style="width: 100%">
   <a href="mailto:rpo.lopes.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
