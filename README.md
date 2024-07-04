@@ -1,6 +1,6 @@
 <div align="center" style="width: 100%">
 <img src="https://github.com/R-uan/R-uan/blob/main/typing.svg" />
-
+<!-- Gif created with: https://github.com/denvercoder1/readme-typing-svg -->
 <br/>
 
 ```csharp
