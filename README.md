@@ -14,10 +14,12 @@
     Databases = new[] { "MongoDB", "PostgreSQL", "Redis" }
  }
 ```
-  <img src="https://streak-stats.demolab.com?user=R-uan&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5" height="168" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-uan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="168" alt="languages graph"  />
+<div align="center" style="width: 100%">
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=R-uan&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5" height="168" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-uan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="168" alt="languages graph"  />
+</div>
+
 <div align="center" style="width: 100%">
   <a href="mailto:rpo.lopes.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
