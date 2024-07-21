@@ -7,11 +7,12 @@
 
 ```csharp
   var ruan = new() {
-    Role = "Backend dev"
+    Role = "Backend dev",
     Languages = new[] { "C#", "JavaScript", "PHP", "Python", "HTML", "CSS", "TypeScript" },
-    Frameworks = new[] { "ASP.NET Core", "Laravel", "Next.js", "Express.js", "React.js",  }
-    Tools = new[] { "Docker", "Git", "GitHub", "Node.js" }
-    Databases = new[] { "MongoDB", "PostgreSQL", "Redis" }
+    Frameworks = new[] { "ASP.NET Core", "Laravel", "Next.js", "Express.js", "React.js",  },
+    Tools = new[] { "Docker", "Git", "GitHub", "Node.js" },
+    Databases = new[] { "MongoDB", "PostgreSQL", "Redis" },
+    Learning = new[] { "Golang", "Rust" }
  }
 ```
 <div align="center" style="width: 100%">
