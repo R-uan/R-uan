@@ -12,7 +12,7 @@
     Frameworks = new[] { "ASP.NET Core", "Next.js", "Express.js", "React.js",  },
     Tools = new[] { "Docker", "Git", "GitHub", "Node.js" },
     Databases = new[] { "MongoDB", "PostgreSQL", "Redis" },
-    Learning = new[] { "Golang", "Rust" }
+    Learning = new[] { "Golang", "C++" }
  }
 ```
 <div align="center" style="width: 100%">
