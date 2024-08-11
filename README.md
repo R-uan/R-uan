@@ -6,7 +6,7 @@
 <br/>
 
 ```csharp
-  var ruan = new() {
+  Developer ruan = new() {
     Role = "Backend dev",
     Languages = new[] { "C#", "JavaScript", "HTML", "CSS", "TypeScript" },
     Frameworks = new[] { "ASP.NET Core", "Next.js", "Express.js", "React.js",  },
