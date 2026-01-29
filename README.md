@@ -1,5 +1,3 @@
-<img align="right" height="320" src="https://i.pinimg.com/1200x/5a/01/36/5a013657eba6558c422be521af712edf.jpg"  />
-
 ###
 
 <h3 align="center">Helloi! My name is Ruan, I'm a software developer from Brazil.</h3>
