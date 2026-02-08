@@ -1,12 +1,9 @@
 ###
+<h2 align="center">Helloi! My name is Ruan, I'm a software developer from Brazil.</h3>
 
-<h3 align="center">Helloi! My name is Ruan, I'm a software developer from Brazil.</h3>
+<img src="./banner.png" />
 
-###
 
-<p align="center">(˶ᵔ ᵕ ᵔ˶) ‹  Back-end software developer  › ᓚ₍ ^. .^₎<br>  ദ്ദി(ᵔᗜᵔ) ‹ Linux ⟡ NixOS ⟡ Hyprland › (˶˃⤙˂˶)<br>  ⋆｡°⭒˚｡⋆ ‹ Português ⟡ English › ⋆｡°⭒˚｡⋆</p>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
@@ -23,7 +20,6 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="7" />
@@ -44,7 +40,12 @@
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
 </div>
 
-###
+<b>
+<p align="center">(˶ᵔ ᵕ ᵔ˶) ‹  Back-end software developer  › ᓚ₍ ^. .^₎<br>  ദ്ദി(ᵔᗜᵔ) ‹ Linux ⟡ NixOS ⟡ Hyprland › (˶˃⤙˂˶)<br>  ⋆｡°⭒˚｡⋆ ‹ Português ⟡ English › ⋆｡°⭒˚｡⋆</p>
+</b>
+
+
+##
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=RW1c&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
