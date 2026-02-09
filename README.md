@@ -1,8 +1,6 @@
-###
-<h2 align="center">Helloi! My name is Ruan, I'm a software developer from Brazil.</h3>
+
 
 <img src="./banner.png" />
-
 
 
 <div align="center">
